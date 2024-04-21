@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "luerhard@googlemail.com",
+                "Name": "Lukas Erhard"
+            }
+        ],
+        "Description": "Cycles through last used virtual desktops in reverse order",
+        "Icon": "preferences-system-windows-script-test",
+        "Id": "kwin-walk-through-desktops",
+        "License": "GPL",
+        "Name": "Cycle Through Desktops"
+    },
+    "X-Plasma-API": "javascript"
+}
