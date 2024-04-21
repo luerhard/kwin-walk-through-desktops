@@ -10,6 +10,9 @@ It is designed as a reimplementation of a feature that was available in KDE 5 bu
 - Navigating Desktops: Simply press Meta+Tab to cycle through your last used desktops. Quick successive presses will continue moving through your desktop history.
 - Currently, the script has a fixed delay of 500 ms for continuation detection. If needed, you can modify this value directly in the script to suit your preferences.
 
+![showcase](https://github.com/luerhard/kwin-walk-through-desktops/assets/24412608/b04de99e-1f06-4781-8fdc-9694d306aee4)
+
+
 # Disclaimer
 
 This project is my first attempt at writing JavaScript and therefore far from perfect.
