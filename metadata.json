@@ -7,11 +7,12 @@
                 "Name": "Lukas Erhard"
             }
         ],
-        "Description": "Cycles through last used virtual desktops in reverse order",
+        "Description": "Walks through last used virtual desktops in reverse order",
         "Icon": "preferences-system-windows-script-test",
         "Id": "kwin-walk-through-desktops",
-        "License": "GPL",
-        "Name": "Cycle Through Desktops"
+        "Version": "1.0",
+        "License": "MIT",
+        "Name": "Walk Through Desktops"
     },
     "X-Plasma-API": "javascript"
 }

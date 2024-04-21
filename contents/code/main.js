@@ -1,15 +1,16 @@
 /*
     SPDX-FileCopyrightText: 2024 Lukas Erhard <luerhard@googlemail.com>
 
-    SPDX-License-Identifier: GPL-2.0-or-later
+    SPDX-License-Identifier: MIT
 */
+
 class WalkThroughDesktopsShortcut {
 
     constructor() {
 
         this.prev_desktops = [];
 
-        this.delay = 600;
+        this.delay = 500;
         this.last_trigger = 0;
 
         this.buffer = "";
